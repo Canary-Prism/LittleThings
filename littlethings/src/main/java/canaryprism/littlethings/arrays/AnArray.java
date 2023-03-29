@@ -1,4 +1,4 @@
-package canaryprism.littlethings.arraylist;
+package canaryprism.littlethings.arrays;
 
 /**
  * Things to do with making arrays

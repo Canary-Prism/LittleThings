@@ -6,7 +6,6 @@ package canaryprism.littlethings;
 
 public class Main {
     public static void main(String[] args) {
-        //WIP
-        canaryprism.littlethings.arraylist.AnArray.of(Object.class, 3, "", true);
+        //this is j
     }
 }
